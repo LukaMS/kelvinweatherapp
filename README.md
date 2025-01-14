@@ -1,16 +1,6 @@
-# weatherapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Kelvin Weahter App
+This is a minimalistic weahter app that allows you to get your weather data in kelvin. Weather data is from the openweather's API and location data is from Google's Geocoding API. The app is a Flutter app and can be run both android and iOS devices using an emulator of your choice.
+## How to use
+1. Clone the repo and make sure you have Flutter and JDK installed on your system.
+2. Get an android device emulator of your choice, I used Android Studio.
+3. In the main directory use 'flutter run' and view your weather data!
